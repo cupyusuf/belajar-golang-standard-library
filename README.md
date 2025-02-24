@@ -1,4 +1,4 @@
-## Belajar Golang Dasar Section 2
+## Belajar Golang Standard library Section 2
 
 #### untuk running gunakan go run (nama file)
 
