@@ -47,9 +47,9 @@ func main() {
 	readField(Person{"Yusuf", "", ""})
 
 	person := Person{
-		Name:    "ada",
-		Address: "ada",
-		Email:   "ada",
+		Name:    "Yusuf",
+		Address: "Cimahi",
+		Email:   "",
 	}
 	fmt.Println(IsValid(person))
 }
